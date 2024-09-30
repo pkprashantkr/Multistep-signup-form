@@ -41,7 +41,7 @@ const App = () => {
   }
 
   return (
-    <div className='md:w-1/2 mx-auto shadow-xl rounded-2xl pb-1 bg-white mt-52 px-4 py-3' >
+    <div className='md:w-1/2 mx-auto shadow-xl rounded-2xl pb-1 bg-white mt-32 px-4 py-3' >
       {/* Stepper */}
       <div className= "container horizontal mt-5 ">
         <Stepper 
