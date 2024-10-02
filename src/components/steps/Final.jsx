@@ -7,7 +7,7 @@ const Final = () => {
     <div className='container md:mt-10'>
         <div className='flex flex-col items-center'>
             <div className='text-green-400'>
-                <img src={completed} alt="completed" className='h-32 w-auto' />
+                <img src={completed} alt="completed" className='h-28 w-auto' />
             </div>
             <div className='mt-3 text-xl font-semibold uppercase'>
                 Congratulations!
